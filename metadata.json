@@ -1,0 +1,6 @@
+{
+  "name": "Instant Loan",
+  "description": "Instant micro-loan & personal credit line application with digital KYC, real-time EMI calculator, automated disbursement tracking, and repayment management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
